@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # vStream https://github.com/Kodi-vStream/venom-xbmc-addons
 # TODO : resources/art/sites  https://www.filmstoon.pro/templates/filmstoon/images/logo.webp
-# source 03    
+# source 03  a updater  
 
 # update 30/07/2020 
 #add MOVIE_ANNEES;add MOVIE_VIEWS;update search; updateshowHosters()sPattern; 
